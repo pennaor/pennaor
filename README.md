@@ -8,7 +8,7 @@
 
   ~~and the bugs..~~
 
-  <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif?raw=true" alt="gopher-dancing" width="100px">
+  <a href="https://github.com/egonelbre/gophers" target="_blank" title="to gophers project"><img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif?raw=true" alt="gopher-dancing" width="100px"></a>
 </details>
 
 ---
@@ -44,5 +44,5 @@
 
 <div>
   <a href="mailto:aluisioordones1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
-  <a href="www.linkedin.com/in/pennaor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+  <a href="https://www.linkedin.com/in/pennaor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 </div>
