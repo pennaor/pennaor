@@ -1,16 +1,17 @@
-# &Aluisio: a instance that is..
-- exploring new experiences in programming, a new passion;
-- seeking ways to make this helpful for other people;
-- probably solving a bug now. 😅
+# type Aluisio struct
+- func (a *Aluisio) exploring new experiences in programming, a new passion()
+- func (a *Aluisio) seeking ways to make this helpful for other people()
+- func (a *Aluisio) probably solving a bug now() 😅
 
 <details>
   <summary>Join me!</summary>
 
   ~~and the bugs..~~
-
-  <a href="https://github.com/egonelbre/gophers" target="_blank" title="to gophers project"><img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif?raw=true" alt="gopher-dancing" width="100px"></a>
+ 
+<img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif?raw=true" alt="gopher-dancing" width="100px"> [by gophers](https://github.com/egonelbre/gophers)
+  
 </details>
-  <a href="https://github.com/egonelbre/gophers" target="_blank" title="to gophers project"><img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif?raw=true" alt="gopher-dancing" width="100px"></a>
+
 ---
 
 ## Experienced
