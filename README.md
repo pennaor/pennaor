@@ -1,4 +1,4 @@
-# type Aluisio struct
+# type Aluisio struct {}
 - func (a *Aluisio) exploring new experiences in programming, a new passion()
 - func (a *Aluisio) seeking ways to make this helpful for other people()
 - func (a *Aluisio) probably solving a bug now() 😅
