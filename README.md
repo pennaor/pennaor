@@ -10,7 +10,7 @@
 
   <a href="https://github.com/egonelbre/gophers" target="_blank" title="to gophers project"><img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif?raw=true" alt="gopher-dancing" width="100px"></a>
 </details>
-
+  <a href="https://github.com/egonelbre/gophers" target="_blank" title="to gophers project"><img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif?raw=true" alt="gopher-dancing" width="100px"></a>
 ---
 
 ## Experienced
