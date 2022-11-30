@@ -1,8 +1,8 @@
 <div align="center">
  <h1>type Aluisio struct {}</h1>
- <h3>Exploring() new experiences in programming, a new passion</h3>
- <h3>Seeking ways to make() this helpful for other people</h3>
- <h3>Probably solving() a bug now 😅</h3>
+ <h4>Exploring() new experiences in programming, a new passion</h4>
+ <h4>Seeking ways to make() this helpful for other people</h4>
+ <h4>Probably solving() a bug now 😅</h4>
 
  <details>
   <summary>Join me!</summary>
