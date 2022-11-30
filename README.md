@@ -3,7 +3,7 @@
  <h4>Exploring() new experiences in programming, a new passion</h4>
  <h4>Seeking ways to make() this helpful for other people</h4>
  <h4>Probably solving() a bug now 😅</h4>
-
+ <br />
  <details>
   <summary>Join me!</summary>
 
