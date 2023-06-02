@@ -26,6 +26,9 @@
    <a href="#" rel="noopener noreferrer">   
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
    </a>
+   <a href= "#" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+   </a>
    <a href="#" rel="noopener noreferrer">
      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
    </a>
@@ -40,6 +43,9 @@
    </a>
    <a href="#" rel="noopener noreferrer">
      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize" />
+   </a>
+   <a href="#" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
    </a>
   </div>
   <br />
@@ -79,6 +85,9 @@
    </a>
    <a href="#" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/React-RTL-green?style=flat-square" width="90px" height="28px" alt="React Testing Library" />
+   </a> 
+   <a href="#" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Pytest-red?style=flat-square" width="75px" height="28px" alt="Pytest" />
    </a>  
   </div>
   <br />
