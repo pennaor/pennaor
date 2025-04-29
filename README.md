@@ -9,7 +9,7 @@
 
   ~~and the bugs..~~
  
-  <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif?raw=true" alt="gopher-dancing" width="100px"> [by    gophers](https://github.com/egonelbre/gophers)
+  <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif?raw=true" alt="gopher-dancing" width="100px"> [by gophers](https://github.com/egonelbre/gophers)
   
  </details>
 
